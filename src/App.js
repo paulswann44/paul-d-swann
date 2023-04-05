@@ -11,7 +11,6 @@ import Portfolio from "./components/portfolio/portfolio";
 
 
 
-
 function App() {
   return (
       <div>
